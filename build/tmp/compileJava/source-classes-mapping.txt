@@ -1,0 +1,48 @@
+IIS/repositories/DepartmentRepositories.java
+ IIS.repositories.DepartmentRepositories
+IIS/controllers/InterdepartmentalInteractionRestController.java
+ IIS.controllers.InterdepartmentalInteractionRestController
+IIS/message/dto/StatementDTO.java
+ IIS.message.dto.StatementDTO
+IIS/service/StatementIISService.java
+ IIS.service.StatementIISService
+IIS/repositories/TypeOfStatementRepositories.java
+ IIS.repositories.TypeOfStatementRepositories
+IIS/message/meppers/StatementMapper.java
+ IIS.message.meppers.StatementMapper
+IIS/entity/StatementStatus.java
+ IIS.entity.StatementStatus
+IIS/exception/StatementAlreadyExistException.java
+ IIS.exception.StatementAlreadyExistException
+IIS/config/SecurityWebApplicationInitializer.java
+ IIS.config.SecurityWebApplicationInitializer
+IIS/repositories/StatementStatusRepositories.java
+ IIS.repositories.StatementStatusRepositories
+IIS/entity/Statement.java
+ IIS.entity.Statement
+IIS/service/ProcessingStatementScheduledImp.java
+ IIS.service.ProcessingStatementScheduledImp
+IIS/service/StatementIISServiceImp.java
+ IIS.service.StatementIISServiceImp
+IIS/message/meppers/StatementStatusMapper.java
+ IIS.message.meppers.StatementStatusMapper
+IIS/service/ProcessingStatementScheduled.java
+ IIS.service.ProcessingStatementScheduled
+IIS/config/WebConfig.java
+ IIS.config.WebConfig
+IIS/repositories/StatementRepositories.java
+ IIS.repositories.StatementRepositories
+IIS/entity/Department.java
+ IIS.entity.Department
+IIS/message/dto/StatementStatusDTO.java
+ IIS.message.dto.StatementStatusDTO
+IIS/entity/TypeOfStatement.java
+ IIS.entity.TypeOfStatement
+IIS/config/DataJpaConfig.java
+ IIS.config.DataJpaConfig
+IIS/config/SecurityConfig.java
+ IIS.config.SecurityConfig
+IIS/config/ApplicationConfig.java
+ IIS.config.ApplicationConfig
+IIS/config/WebInitializer.java
+ IIS.config.WebInitializer
