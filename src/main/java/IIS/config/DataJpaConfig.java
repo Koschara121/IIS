@@ -52,7 +52,7 @@ public class DataJpaConfig {
     @Bean
     public SpringLiquibase liquibase() {
         SpringLiquibase liquibase = new SpringLiquibase();
-        liquibase.setChangeLog("classpath:liquibase-changeLog.xml");
+        liquibase.setChangeLog("classpath:" + environment.getRequiredProperty("liquibase.changeLog"));
         liquibase.setDataSource(dataSource());
         return liquibase;
     }

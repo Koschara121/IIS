@@ -38,11 +38,11 @@ IIS/message/dto/StatementStatusDTO.java
  IIS.message.dto.StatementStatusDTO
 IIS/entity/TypeOfStatement.java
  IIS.entity.TypeOfStatement
-IIS/config/DataJpaConfig.java
- IIS.config.DataJpaConfig
+IIS/config/WebInitializer.java
+ IIS.config.WebInitializer
 IIS/config/SecurityConfig.java
  IIS.config.SecurityConfig
 IIS/config/ApplicationConfig.java
  IIS.config.ApplicationConfig
-IIS/config/WebInitializer.java
- IIS.config.WebInitializer
+IIS/config/DataJpaConfig.java
+ IIS.config.DataJpaConfig
